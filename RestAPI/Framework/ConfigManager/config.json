@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://jsonplaceholder.typicode.com",
+  "paths": {
+    "usersTestData": [ "Integration", "Resources", "TestData", "users.json" ],
+    "postsTestData": [ "Integration", "Resources", "TestData", "posts.json" ],
+    "creatingPostTestData": [ "Integration", "Resources", "TestData", "creatingPost.json" ]
+  }
+}

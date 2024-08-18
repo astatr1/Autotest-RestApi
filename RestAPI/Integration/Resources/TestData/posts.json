@@ -1,0 +1,16 @@
+[
+  {
+    "postId": 99,
+    "expectedStatusCode": 200,
+    "expectedPost": {
+      "userId": 10,
+      "id": 99,
+      "title": "Expected Title",
+      "body": "Expected Body"
+    }
+  },
+  {
+    "postId": 150,
+    "expectedStatusCode": 404
+  }
+]

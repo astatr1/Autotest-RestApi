@@ -1,0 +1,10 @@
+[
+  {
+    "expectedStatusCode": 201,
+    "expectedPost": {
+      "userId": 1,
+      "titleLength": 10,
+      "bodyLength": 10
+    }
+  }
+]
